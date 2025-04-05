@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/243b7d87-2601-4058-9213-5aa57b5f4343" />
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/383d8e37-49a7-41e5-8dee-28dc9a7370fa" />
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/e3dba7c6-0f85-45a7-b2ff-74f208bbf051" />
+
+
 
 A responsive product dashboard built with React and Material UI that allows users to browse products, view details, and manage a cart with persistent storage.
 
